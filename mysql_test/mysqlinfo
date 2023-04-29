@@ -1,0 +1,8 @@
+mysql pass
+TSQeezg537!
+
+ sudo mysql -u root
+
+var/lib/mysql/db_test_load/
+LOAD DATA LOCAL INFILE "text.txt" INTO TABLE mytable;
+
