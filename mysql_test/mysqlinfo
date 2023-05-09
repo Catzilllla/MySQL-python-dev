@@ -6,3 +6,5 @@ TSQeezg537!
 var/lib/mysql/db_test_load/
 LOAD DATA LOCAL INFILE "text.txt" INTO TABLE mytable;
 
+
+https://www.8host.com/blog/peremeshhenie-bazy-dannyx-mysql-na-novyj-server-v-ubuntu-14-04/?ysclid=lh23wnbqgs182736769
