@@ -93,8 +93,8 @@ def execute_query(connection):
 if __name__ == "__main__":
 
     host_name = "localhost"
-    user_name = "catzi"
-    user_password = "483H36XQl!"
+    user_name = "_____"
+    user_password = "_____"
     db_name = "mydata_base_command_pyth"
 
     connection = create_server_connection(host_name, user_name, user_password, db_name)
